@@ -188,3 +188,6 @@ color=['paleturquoise'] → This applies my wanted color to the bars.
 
 ## OUTPUT:
 <img width="1280" height="597" alt="image" src="https://github.com/user-attachments/assets/a4c5963a-8d8c-41da-9d8f-d3a67995cf74" />
+
+
+Based on the visualizations, students from the Microelectronics track have the highest average grades compared to those in Instrumentation and Communication tracks. Female students show a slightly higher average grade than male students, although the difference is minimal. When grouped by hometown, students from Luzon have the highest average performance, followed by those from Visayas, with Mindanao students scoring slightly lower on average. 

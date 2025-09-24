@@ -151,6 +151,8 @@ The color="lightpink" parameter adds a nice visual touch by coloring the bars li
 ## OUTPUT:
 <img width="1279" height="575" alt="image" src="https://github.com/user-attachments/assets/6b92b2bc-2c29-4af4-82f2-2a5f21c1aca0" />
 
+Based on the visualizations, students from the Microelectronics track have the highest average grades compared to those in Instrumentationt and Communication tracks.
+
 ### GENDER:
 ## CODE:
 ```python
@@ -169,6 +171,8 @@ color=['lavender'] → This applies a lavender color to the bars.
 
 ## OUTPUT:
 <img width="1281" height="569" alt="image" src="https://github.com/user-attachments/assets/a2124aa1-26f4-4313-9b59-281fab11e81c" />
+
+ Female students show a slightly higher average grade than male students, although the difference is minimal.
 
 ### HOMETOWN:
 ## CODE:
@@ -189,5 +193,4 @@ color=['paleturquoise'] → This applies my wanted color to the bars.
 ## OUTPUT:
 <img width="1280" height="597" alt="image" src="https://github.com/user-attachments/assets/a4c5963a-8d8c-41da-9d8f-d3a67995cf74" />
 
-
-Based on the visualizations, students from the Microelectronics track have the highest average grades compared to those in Instrumentation and Communication tracks. Female students show a slightly higher average grade than male students, although the difference is minimal. When grouped by hometown, students from Luzon have the highest average performance, followed by those from Visayas, with Mindanao students scoring slightly lower on average. 
+When grouped by hometown, students from Luzon have the highest average performance, followed by those from Visayas, with Mindanao students scoring slightly lower on average. 
